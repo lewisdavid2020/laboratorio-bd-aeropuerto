@@ -1,0 +1,6 @@
+USE aeropuerto;
+GO
+
+SELECT GETDATE() AS FECHA_ACTUAL
+FROM TablaY;
+GO
